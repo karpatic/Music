@@ -1,0 +1,5 @@
+
+http://pitchfork.com/rss/
+http://pitchfork.com/rss/features/
+http://pitchfork.com/rss/reviews/tracks/
+http://pitchfork.com/rss/reviews/best/tracks/
